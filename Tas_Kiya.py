@@ -422,7 +422,7 @@ class Main:
 			print("    Thanks🥰♥️")
 			exit()
 		elif syed in ["1", "01"]:
-			os.system("xdg-open https://www.facebook.com/profile.php?id=100086252664602")
+			os.system("xdg-open https://www.facebook.com/WhiteDevilRimon")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    Your Ex Gf Name")
