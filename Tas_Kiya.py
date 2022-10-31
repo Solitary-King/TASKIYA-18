@@ -410,7 +410,7 @@ class Main:
 		os.system("clear")
 		print(logo)
 		print("\n╔══════════════════════════════════════════════════════════════╗")
-		print("║                  ─━㋱ASSALAMUALAIKUM㋱━─                   ║")
+		print("║                  ─━㋱ASSALAMUALAIKUM㋱━─                      ║")
 		print("╚══════════════════════════════════════════════════════════════╝")
 		print("\033[1;32m [1] Fast Follow My page")
 		print("\033[1;33m [2] Exit")
