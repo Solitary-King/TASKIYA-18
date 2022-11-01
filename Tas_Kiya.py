@@ -396,7 +396,7 @@ logo = ("""\033[132m
   \033[1;32m    |_/_/    \_\_____/|_|\_\_____|  |_/_/    \_\
 
   \033[1;32m═════════════════════════\33[m 
-          \033[1;32mOwner  :   MD GOLAM RABBE\33[m 																	    
+          \033[1;32mOwner  :   MD GOLAM RABBE ISLAM\33[m 																	    
          \033[1;32mGithub  :   Solitary-King\33[m 	    			   						                    
     \033[1;32mFacebook  :   Solitary King Rimon\33[m 											               
   \033[1;32m═════════════════════════\033[1;37m""")
